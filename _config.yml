@@ -1,0 +1,14 @@
+layout_spectrum: 0.2402088
+typography_spectrum: 0.7312892
+color:
+  saturation: 0.2607947
+  lightness: 0.6256856
+  brandStrength: 0.1738037
+  rhythmicContrast: 0.749536
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Journalism
